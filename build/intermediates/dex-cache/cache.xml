@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\Android\sdk\samples\Wechat\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="G:\Android\sdk\samples\Wechat\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-953e583f43aa652e2da57942216d9f5aa0080c6d.jar" />
+    </item>
+    <item
+        jar="G:\Android\sdk\samples\Wechat\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="G:\Android\sdk\samples\Wechat\app\build\intermediates\pre-dexed\debug\classes-3fb2f4d31e66368eccb9b1942a084f7dacff7d74.jar" />
+    </item>
+    <item
+        jar="G:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="G:\Android\sdk\samples\Wechat\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-3a272c3de5836c7aa8df7a1e5b0c468313230678.jar" />
+    </item>
+    <item
+        jar="G:\Android\sdk\samples\Wechat\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="G:\Android\sdk\samples\Wechat\app\build\intermediates\pre-dexed\debug\classes-c749ae265c4847bad52d9cfee2d56af7946d16ff.jar" />
+    </item>
+
+</items>
